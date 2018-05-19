@@ -7,3 +7,5 @@ gem 'jekyll-contentblocks'
 gem 'haml'
 gem 'rack'
 gem 'capistrano', '~> 2.15'
+
+gem "pygments.rb", "~> 1.2"
