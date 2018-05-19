@@ -1,4 +1,6 @@
 name: Virtual World Framework
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 exclude: [ Gemfile, Gemfile.lock, Capfile, config]
+url: https://davideaster.github.io
+baseUrl: /vwf-web
